@@ -5,7 +5,8 @@
 
 YTPL Downloader need [Node.js](https://nodejs.org/) to run
 
-After that done
+After that done installing the node
+
 Install the dependencies that this project required
 
 ```sh
